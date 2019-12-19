@@ -1,0 +1,24 @@
+.purple-color{color:#8845f4;}
+body{font-family: sans-serif; color:#777777;
+line-height:26px;}
+.side-img{width:10%;
+padding-left:20px;}
+.primary-btn{color:white;
+background-color:red;
+padding:12px;
+border-radius:20px;
+text-decoration:none;}
+h1 {font-size:1.5em;}
+.container{padding-left:5%;
+display:inline-block;}
+.experience{padding:10px;
+margin:10px;
+background-color:rgb(238,252,255);
+border-radius:1px;
+}
+.experience-item{padding:20px;
+border-left:1px solid rgba(137,130,247,.2);
+}
+
+
+
